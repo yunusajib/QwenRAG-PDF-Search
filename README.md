@@ -16,7 +16,7 @@ A powerful document search system that combines Qwen2.5 language models with RAG
 
 3. Navigate to project directory:
    ```bash
-   cd document_search_with_rag
+   cd QwenRAG-PDF-Search
    ```
 
 4. Install dependencies:
