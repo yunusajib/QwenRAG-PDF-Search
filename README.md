@@ -4,7 +4,7 @@ A powerful document search system that combines Qwen2.5 language models with RAG
 
 ## Quick Start: Setting up the Repository
 
-1. Open terminal in your JarvisLabs workspace:
+1. Open terminal in your JarvisLabs workspace/ Open Google Colab as require GPU to run the experiment:
    ```bash
    File > New Launcher > Terminal
    ```
