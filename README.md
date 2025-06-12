@@ -1,7 +1,7 @@
 # Document Search with RAG (Retrieval Augmented Generation)
 
 A powerful document search system that combines Qwen2.5 language models with RAG technology to provide intelligent, context-aware answers from your PDF documents.
-
+Access Demo video here: https://youtu.be/3zEp2TNV8dI
 ## Quick Start: Setting up the Repository
 
 1. Open terminal in your JarvisLabs workspace/ Open Google Colab as require GPU to run the experiment:
