@@ -11,6 +11,7 @@
 QwenRAG-PDF-Search allows users to upload PDF documents and ask questions in natural language.  
 The system uses **Retrieval-Augmented Generation (RAG)** — combining **semantic search** (ChromaDB) with **Qwen2.5** language models for context-aware answers.
 
+Demo link: https://youtu.be/v-ciwaRasvU
 ---
 
 ## 🚀 Features
