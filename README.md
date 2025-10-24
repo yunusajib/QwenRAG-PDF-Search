@@ -6,7 +6,7 @@ QwenRAG-PDF-Search enables users to upload one or multiple PDF documents and int
 It utilises Retrieval-Augmented Generation (RAG) to return accurate, context-aware answers with source citations, combining semantic search from ChromaDB with Qwen2.5 LLMs.
 
 🎥 Demo Video:
- https://youtu.be/v-ciwaRasvU<img width="468" height="50" alt="image" src="https://github.com/user-                    attachments/assets/48a977e5-c16f-4634-8a91-05fc555e66cd" />
+ https://youtu.be/v-ciwaRasvU<img width="468" height="50" alt="image" src="https://github.com/user-attachments/assets/48a977e5-c16f-4634-8a91-05fc555e66cd" />
 
 🔹 Problem
 
@@ -70,7 +70,7 @@ This project transforms static document reading into an interactive conversation
 
 🛠️ Installation & Run Locally
 
-        git clone 
+        git clone https://github.com/yunusajib/QwenRAG-PDF-Search.git
         cd QwenRAG-PDF-Search
         pip install -r requirements.txt
         python app.py
