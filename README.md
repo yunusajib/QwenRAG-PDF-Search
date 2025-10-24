@@ -43,19 +43,19 @@ This project transforms static document reading into an interactive conversation
         Language	Python 3.10+
 🖥️ Demo UI
 
-        Add a screenshot here later (e.g., ./assets/ui.png)
+        Add a screenshot 
 
 📂 Project Structure
-QwenRAG-PDF-Search/
-        ├── app.py
-        ├── requirements.txt
-        ├── README.md
-        ├── src/
-        │   ├── rag_system.py     # Core pipeline: embeddings, retrieval, generation
-        │   └── ui.py             # Gradio interface
-        ├── data/                 # Uploaded PDFs
-        ├── chroma_db/            # Local vector DB storage
-        └── assets/               # UI assets (screenshots, icons)
+          - QwenRAG-PDF-Search/
+          - app.py
+          - requirements.txt
+          - README.md
+          - src/
+               ├── rag_system.py     # Core pipeline: embeddings, retrieval, generation
+               └── ui.py             # Gradio interface
+          -  data/                 # Uploaded PDFs
+          - chroma_db/            # Local vector DB storage
+          - assets/               # UI assets (screenshots, icons)
 
 🧠 Skills Demonstrated
 
