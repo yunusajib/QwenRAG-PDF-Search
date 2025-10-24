@@ -46,6 +46,7 @@ This project transforms static document reading into an interactive conversation
         Add a screenshot 
 
 📂 Project Structure
+
           - QwenRAG-PDF-Search/
           - app.py
           - requirements.txt
@@ -70,6 +71,7 @@ This project transforms static document reading into an interactive conversation
         Building and deploying interactive AI apps
 
 🛠️ Installation & Run Locally
+
         git clone 
         cd QwenRAG-PDF-Search
         pip install -r requirements.txt
