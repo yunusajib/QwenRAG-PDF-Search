@@ -32,6 +32,7 @@ This project transforms static document reading into an interactive conversation
         ✔ Fully local workflow (depending on model used)
 
 📦 Tech Stack
+
         Component	Tool
         LLM	Qwen2.5 (LMDeploy)
         Document QA	LangChain
@@ -39,6 +40,7 @@ This project transforms static document reading into an interactive conversation
         Embeddings	SentenceTransformers (all-MiniLM-L6-v2)
         Interface	Gradio
         Language	Python 3.10+
+        
 🖥️ Demo UI
 
         Add a screenshot 
