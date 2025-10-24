@@ -5,10 +5,9 @@ Ask questions from your PDFs — with real citations and instant context retriev
 QwenRAG-PDF-Search enables users to upload one or multiple PDF documents and interact with them using natural language.
 It utilises Retrieval-Augmented Generation (RAG) to return accurate, context-aware answers with source citations, combining semantic search from ChromaDB with Qwen2.5 LLMs.
 
-🎥 Demo Video
+🎥 Demo Video:
 
-➡️ Demo link: https://youtu.be/v-ciwaRasvU<img width="468" height="50" alt="image" src="https://github.com/user-attachments/assets/b57d538d-3e99-46db-b1b6-15cb06980222" />
-
+          Demo link: https://youtu.be/v-ciwaRasvU<img width="468" height="50" alt="image" src="https://github.com/user-                    attachments/assets/48a977e5-c16f-4634-8a91-05fc555e66cd" />
 
 🔹 Problem
 
